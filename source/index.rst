@@ -6,6 +6,9 @@
 Welcome to project_for_autodoc's documentation!
 ===============================================
 
+.. automodule:: my_module_for_test
+   :members:
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
